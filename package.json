@@ -1,0 +1,17 @@
+{
+  "name": "explore",
+  "scripts": {
+    "clean": "rescript clean",
+    "dev": "rescript -w",
+    "build": "rescript",
+    "vdev": "vite",
+    "vpreview": "vite preview",
+    "vbuild": "vite build"
+  },
+  "dependencies": {
+    "@rescript/core": "^1.5.2",
+    "ohm-js": "^17.1.0",
+    "rescript": "^11.1.3",
+    "vite": "^5.4.2"
+  }
+}
